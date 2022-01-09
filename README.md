@@ -1,1 +1,12 @@
-# comic-app
+##  <center>OurComic - Comic application</center>
+![screen.png](https://github.com/notme1001/comic-app/blob/main/screen.png?raw=true)
+
+##  Desc
+**[ID]**  Aplikasi membaca komik digital dengan gratis , di bangun menggunakan flutter.
+**[EN]** Free digital comic reading app, built using flutter & expressJs.
+
+### Download
+
+
+###  Author
+[Ibnu Gunawan](mailto:ibnugunawan1@outlook.com)
