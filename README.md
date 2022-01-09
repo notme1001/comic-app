@@ -6,7 +6,7 @@
 **[EN]** Free digital comic reading app, built using flutter & expressJs.
 
 ### Download
-
+[Download app](https://github.com/notme1001/comic-app/releases/tag/Latest)
 
 ###  Author
 [Ibnu Gunawan](mailto:ibnugunawan1@outlook.com)
